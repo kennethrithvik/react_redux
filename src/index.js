@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
-console.log('hi');
+console.log('helldfwer');
 let a = function() {
-    console.log('hello');
+  console.log('hello');
 };
 
