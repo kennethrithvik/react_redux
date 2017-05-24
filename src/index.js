@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
-console.log('helldfwer');
-let a = function() {
-  console.log('hello');
-};
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Row from './test';
 
+ReactDOM.render(<Row/>,document.getElementById('app'));
